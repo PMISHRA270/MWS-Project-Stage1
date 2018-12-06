@@ -2,7 +2,7 @@
 Mobile web specialist nanodegree - Restaurant Reviews App Stage 1
 
 # About the Project
-The original project upon which we have worked our solution can be found under https://github.com/udacity/mws-restaurant-stage-1.
+The original project upon which we have worked our solution can be found [here](https://github.com/udacity/mws-restaurant-stage-1).
 
 For the Restaurant Reviews projects, we will incrementally convert a static webpage to a mobile-ready web application. In Stage One, we will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. We will also add a service worker to begin the process of creating a seamless offline experience for our users.
 
